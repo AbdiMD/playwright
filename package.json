@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdiMD/playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdiMD/playwright/issues"
+  },
+  "homepage": "https://github.com/AbdiMD/playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.36.2"
+  }
+}
